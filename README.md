@@ -48,7 +48,7 @@ https://github.com/OSUrobotics/graspit_ros_plannings <br />
 
 Add new robots, grippers and objects:
 ------------
-Please see the issues:
+Please see the issues: <br />
 https://github.com/JenniferBuehler/graspit-pkgs/issues/55 <br />
 https://github.com/JenniferBuehler/graspit-pkgs/wiki/Conversion-with-urdf2graspit#step-2-optional-choose-your-contact-points-in-the-viewer <br />
 https://github.com/JenniferBuehler/graspit-pkgs/issues/49
