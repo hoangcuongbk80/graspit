@@ -52,3 +52,4 @@ Please see the issues: <br />
 https://github.com/JenniferBuehler/graspit-pkgs/issues/55 <br />
 https://github.com/JenniferBuehler/graspit-pkgs/wiki/Conversion-with-urdf2graspit#step-2-optional-choose-your-contact-points-in-the-viewer <br />
 https://github.com/JenniferBuehler/graspit-pkgs/issues/49
+https://github.com/graspit-simulator/graspit/issues/155
